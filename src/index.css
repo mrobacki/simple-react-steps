@@ -15,6 +15,10 @@ body {
   color: #333;
 }
 
+.container {
+  position: relative;
+}
+
 .steps {
   width: 600px;
   background-color: #f7f7f7;
